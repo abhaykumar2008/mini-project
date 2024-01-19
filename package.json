@@ -1,0 +1,16 @@
+{
+  "name": "moviezzweb",
+  "version": "1.0.0",
+  "description": "Are you a movie maniac, who loves to binge-watch awesome movies & series? If Yes, then you have come to the right place. <p align=\"center\"><img src=\"https://noelalanaleon.files.wordpress.com/2015/06/tyrion-29.gif\" width = 70%></p>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "mongodb": "^6.3.0"
+  }
+}
